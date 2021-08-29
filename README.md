@@ -3,6 +3,11 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | 과제 | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
+| 1 | 수업 소개 | [PDF]() | 2021.09.03 | [Youtube](https://youtu.be/AcIHcYf4ft4) | |
+
+## 모듈A: 난생처음 인공지능 입문
+| week | Cource Contents | LectureNote | Date |  Video | 과제 | 
+|:---:|:---:|:---:|:---:|:---:|:---:| 
 | 1-1 | 난생처음인공지능 1강 <br> "모듈 소개" | | 2021.09.03 |  |  |
 | 1-2 | 난생처음인공지능 1강 <br> "인공지능이란 무엇인가"  | | 2021.09.03 | [Youtube](https://youtu.be/MNrVYGrF0mI)  | A4 한장 요약문 |
 | 1-3 | 난생처음인공지능 1강 <br> "인공지능 활용사례" | | 2021.09.03 | [Youtube](https://youtu.be/xuXVp8Upx3w) | A4 한장 요약문 |
